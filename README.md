@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steve-Macwan
-- 👀 I’m interested in Python, Robotics and AI
-- 🌱 I’m currently learning bachelors in Robotics and AI 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Robotics and AI.
+- 🌱 I’m currently learning bachelors in Robotics and AI.
+- 💞️ I’m looking to collaborate on projects which help me implement my knowledge of python.
 - 📫 How to reach me ...
 
 <!---
